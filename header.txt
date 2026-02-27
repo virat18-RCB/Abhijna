@@ -1,0 +1,4 @@
+Initial-hash: d489be73ef17a7c10f4e098b6a1e0ff1a91e3c9eefe6f565c619c69ae482f966
+Proof-of-work: atS
+Hash: 0007acc73688304b2830f76c08730fa1c13d80206cf9df2c5fe1e5ec4a7a4b23
+Leading-zero-bits: 13
